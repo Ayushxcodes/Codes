@@ -71,7 +71,7 @@ Below is the HTML and CSS code that constitutes the Anime Hunt website. Feel fre
 
 ### HTML (index.html)
 
-```html
+``html
 <!DOCTYPE html>
 <html lang="en">
 <head>
